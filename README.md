@@ -3,7 +3,10 @@ This Docker container provides a quick solution to run a website with Bludit, if
 
 [![Docker Hub](https://img.shields.io/badge/Docker-Hub-blue.svg)](https://hub.docker.com/r/bludit/docker/)
 
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-Deployment-blue.svg)](https://github.com/bludit/docker/tree/master/kubernetes)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Deployment-blue.svg)](https://github.com/ruan-oliveira/bludit/tree/master/kubernetes)
+
+[![Kubernetes Helm](https://img.shields.io/badge/Kubernetes-Helm-blue.svg)](https://github.com/ruan-oliveira/bludit/tree/master/kubernetes/helm)
+
 
 ### Run the container
 
